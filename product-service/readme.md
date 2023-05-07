@@ -30,6 +30,10 @@ For running integration test case run the docker desktop and run the integration
 
 A brief description of what this project does and who it's for
 
+
+
+for kafka
+https://developer.confluent.io/quickstart/kafka-docker/
 ## API Reference
 to run keycloak in local
 
